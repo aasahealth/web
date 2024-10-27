@@ -1,6 +1,6 @@
 {
-    "name": "pure_biology_web",
-    "short_name": "pure_biology_web",
+    "name": "pure_biology_website",
+    "short_name": "pure_biology_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
